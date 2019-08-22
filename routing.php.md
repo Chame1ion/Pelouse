@@ -6,8 +6,8 @@
 			
 				/* Пример адресов без переменных */
 			
-				array('_uri'  => '/^yoursiteurl.ru\z/i',														'module' => 'welcome',	'do' => 'welcome'),
-				array('_uri'  => '/^yoursiteurl.ru\/welcome\z/i',												'module' => 'welcome',	'do' => 'welcome'),
+				array('_uri'  => '/^yoursiteurl.ru\z/i',															'module' => 'welcome',	'do' => 'welcome'),
+				array('_uri'  => '/^yoursiteurl.ru\/welcome\z/i',											'module' => 'welcome',	'do' => 'welcome'),
 				array('_uri'  => '/^yoursiteurl.ru\/login\z/i',													'module' => 'welcome',	'do' => 'schools'),
 				array('_uri'  => '/^yoursiteurl.ru\/sites\z/i',													'module' => 'welcome',	'do' => 'sites'),
 				array('_uri'  => '/^yoursiteurl.ru\/blog\z/i',													'module' => 'welcome',	'do' => 'blog'),
